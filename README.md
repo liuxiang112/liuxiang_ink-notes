@@ -17,7 +17,7 @@
 1. [promise简说]()
 #### 服务器
 1. [http协议]()
-2. [anywhere服务器](https://github.com/liuxiang112/liuxiang_ink-notes/doc/anywhere_service.md)
+2. [anywhere服务器](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/anywhere_service.md)
 #### 杂说
 1. [一个吃货的减肥之路]()
 2. ['土肥圆'与'潮瘦美'的差别待遇]()
