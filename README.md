@@ -21,6 +21,7 @@
 1. [http协议](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/http.md)
 2. [anywhere服务器](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/anywhere_service.md)
 3. [Nginx部署单页应用](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nginx.md)
+3. [Nginx实现代理跨域](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nginx-proxy.md)
 #### 杂说
 1. [一个吃货的减肥之路]()
 2. ['土肥圆'与'潮瘦美'的差别待遇]()
