@@ -5,6 +5,7 @@
 3. [条件判断]()
 4. [this](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/this.md)
 5. [函数](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/function.md)
+6. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
 #### CSS
 #### HTML
 #### VUE
