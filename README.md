@@ -21,7 +21,10 @@
 1. [http协议](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/http.md)
 2. [anywhere服务器](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/anywhere_service.md)
 3. [Nginx部署单页应用](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nginx.md)
-3. [Nginx实现代理跨域](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nginx-proxy.md)
+4. [Nginx实现代理跨域](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nginx-proxy.md)
+5. [nssm注册windows服务](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nssm.md)
 #### 杂说
-1. [一个吃货的减肥之路]()
-2. ['土肥圆'与'潮瘦美'的差别待遇]()
+1. [eg：一个吃货的减肥之路]()
+2. [eg：'土肥圆'与'潮瘦美'的差别待遇]()
+3. [eg：沉迷阿堵物的我]()
+4. [eg：什么是成功？？？懂得在不成功的人生随遇而安，心安理得地混过漫长的岁月而不怨天尤人]()
