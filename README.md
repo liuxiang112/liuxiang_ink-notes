@@ -7,7 +7,8 @@
 5. [函数](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/function.md)
 6. [apply()和call()使用详解](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/applyandcall.md)
 7. [函数去抖debounce和函数节流throttle](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/debounceandthrottle.md)
-8. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
+8. [对象原型](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/prototype.md)
+9. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
 #### CSS
 #### HTML
 #### VUE
