@@ -16,7 +16,7 @@
 **接口定义**
 ````
 /**
-* 空闲控制 返回函数连续调用时，空闲时间必须大于或等于 idle，action 才会执行
+* 空闲控制 返回函数连续调用时，空闲时间必须大于或等于 delay，method 才会执行
 * @param delay   {number}    空闲时间，单位毫秒
 * @param method {function}  请求关联函数，实际应用需要调用的函数
 * @return {function}    返回客户调用函数
