@@ -15,7 +15,7 @@
 1. [vuex]()
 2. [axios]()
 3. [vue-route](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/vue-router.md)
-4. [空白vue框架](https://github.com/liuxiang112/vue-blank-project/blob/master)
+4. [空白vue框架](https://github.com/liuxiang112/vue-blank-project)
 #### NODE
 1. [koa](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/koa.md)
 #### ES6
