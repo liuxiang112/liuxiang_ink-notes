@@ -26,11 +26,12 @@
 #### 服务器
 1. [浅谈http状态码](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/http.md)
 2. [anywhere服务器](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/anywhere_service.md)
-3. [Nginx部署单页应用](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nginx.md)
-4. [Nginx实现代理跨域](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nginx-proxy.md)
-5. [使用nssm部署node.js项目为windows服务](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nssm.md)
-6. [将任意网站打包成本地exe程序](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/exe.md)
-7. [electron简单应用1](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/electron.md)
+3. [怎么打开自己的网站](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/open_web.md)
+4. [Nginx部署单页应用](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nginx.md)
+5. [Nginx实现代理跨域](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nginx-proxy.md)
+6. [使用nssm部署node.js项目为windows服务](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nssm.md)
+7. [将任意网站打包成本地exe程序](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/exe.md)
+8. [electron简单应用1](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/electron.md)
 #### 杂说
 1. [eg：一个吃货的减肥之路]()
 2. [eg：'土肥圆'与'潮瘦美'的差别待遇]()
