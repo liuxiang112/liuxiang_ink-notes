@@ -22,6 +22,7 @@
 2. [npm发布](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/npmpublick.md)
 #### ES6
 1. [promise简说](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/promise.md)
+2. [export和export default区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/export.md)
 #### 服务器
 1. [浅谈http状态码](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/http.md)
 2. [anywhere服务器](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/anywhere_service.md)
