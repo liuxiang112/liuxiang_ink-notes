@@ -10,6 +10,7 @@
 8. [对象原型](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/prototype.md)
 9. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
 #### CSS
+1. [移动端适配注意事项](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/flexble.md)
 #### HTML
 #### VUE
 1. [vuex]()
