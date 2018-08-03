@@ -19,6 +19,7 @@
 5. [空白vue框架](https://github.com/liuxiang112/vue-blank-project)
 #### NODE
 1. [koa](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/koa.md)
+2. [npm发布](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/npmpublick.md)
 #### ES6
 1. [promise简说](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/promise.md)
 #### 服务器
