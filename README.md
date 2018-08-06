@@ -18,7 +18,8 @@
 3. [vue-route](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/vue-router.md)
 4. [watch和computed的使用详解](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/watchandcomputer.md)
 5. [vue常见的传值方式](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/propsandemit.md)
-6. [空白vue框架](https://github.com/liuxiang112/vue-blank-project)
+6. [理解 $nextTick 的作用](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nextTick.md)
+7. [空白vue框架](https://github.com/liuxiang112/vue-blank-project)
 #### NODE
 1. [koa](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/koa.md)
 2. [npm发布](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/npmpublick.md)
