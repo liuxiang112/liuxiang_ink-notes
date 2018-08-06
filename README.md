@@ -26,7 +26,6 @@
 #### ES6
 1. [promise简说](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/promise.md)
 2. [export和export default区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/export.md)
-3. [简单封装的ajax](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/ajax.md)
 #### 服务器
 1. [浅谈http状态码](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/http.md)
 2. [anywhere服务器](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/anywhere_service.md)
@@ -36,6 +35,9 @@
 6. [使用nssm部署node.js项目为windows服务](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nssm.md)
 7. [将任意网站打包成本地exe程序](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/exe.md)
 8. [electron简单应用1](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/electron.md)
+#### 常用的封装
+1. [简单封装的ajax](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/ajax.md)
+2. [简单封装的cookie](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/session.md)
 #### 其他
 1. [git常用命令速查表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/git.md)
 2. [前端网站列表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/web.md)
