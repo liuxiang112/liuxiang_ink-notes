@@ -39,6 +39,7 @@
 1. [简单封装的ajax](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/ajax.md)
 2. [简单封装的cookie](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/session.md)
 3. [封装的storage](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/storage.md)
+4. [封装的formatDate](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/formatDate.md)
 #### 其他
 1. [git常用命令速查表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/git.md)
 2. [前端网站列表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/web.md)
