@@ -35,6 +35,8 @@
 6. [使用nssm部署node.js项目为windows服务](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nssm.md)
 7. [将任意网站打包成本地exe程序](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/exe.md)
 8. [electron简单应用1](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/electron.md)
+#### 其他
+1. [git常用命令速查表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/git.md)
 #### 杂说
 1. [eg：一个吃货的减肥之路]()
 2. [eg：'土肥圆'与'潮瘦美'的差别待遇]()
