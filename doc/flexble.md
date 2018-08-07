@@ -1,6 +1,6 @@
 #### 手淘适配方案说明
 
-直接引入flexible.js文件即可<script></script>（设计稿按照750px切图）
+直接引入flexible.js((https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/flexible.js))文件即可<script></script>（设计稿按照750px切图）
 
 <font color="#dd000">注意：</font>
 1. flexible.js文件不要改动
