@@ -43,6 +43,7 @@
 #### 其他
 1. [git常用命令速查表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/git.md)
 2. [前端网站列表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/web.md)
+3. [软件开发环境、生产环境、测试环境的基本理解和区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/development_environment.md)
 #### 杂说
 1. [eg：一个吃货的减肥之路]()
 2. [eg：'土肥圆'与'潮瘦美'的差别待遇]()
