@@ -8,7 +8,9 @@
 6. [apply()和call()使用详解](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/applyandcall.md)
 7. [函数去抖debounce和函数节流throttle](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/debounceandthrottle.md)
 8. [对象原型](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/prototype.md)
-9. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
+9. [对象原型](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/prototype.md)
+10. [彻底理解同步、异步和事件循环(Event Loop)](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/event_loop.md)
+11. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
 #### CSS
 1. [移动端适配注意事项](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/flexble.md)
 #### HTML
