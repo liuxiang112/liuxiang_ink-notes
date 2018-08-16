@@ -10,8 +10,9 @@
 8. [对象原型](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/prototype.md)
 9. [对象原型](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/prototype.md)
 10. [callback函数浅谈](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/callback.md)
-11. [彻底理解同步、异步和事件循环(Event Loop)](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/event_loop.md)
-12. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
+11. [同步(Synchronous)和异步(Asynchronous)](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/sync.md)
+12. [彻底理解同步、异步和事件循环(Event Loop)](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/event_loop.md)
+13. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
 #### CSS
 1. [移动端适配注意事项](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/flexble.md)
 #### HTML
