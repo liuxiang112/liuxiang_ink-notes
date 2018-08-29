@@ -24,9 +24,10 @@
 5. [vue常见的传值方式](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/propsandemit.md)
 6. [理解 $nextTick 的作用](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/nextTick.md)
 7. [空白vue框架](https://github.com/liuxiang112/vue-blank-project)
+8. [空白vue框架](https://github.com/liuxiang112/vue-blank-project)
 #### NODE
 1. [koa](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/koa.md)
-2. [npm发布](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/npmpublick.md)
+2. [浅解vue数据驱动原理](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/vue.md)
 #### ES6
 1. [promise简说](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/promise.md)
 2. [export和export default区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/export.md)
