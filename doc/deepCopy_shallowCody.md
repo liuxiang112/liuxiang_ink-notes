@@ -11,7 +11,7 @@
     ![](../Image/zhan2.png)
 
 #### 二、实现
-怎么实现深拷贝？？？
+1.怎么实现深拷贝？？？
 - 法一：用JSON对象的parse和stringify
   ````
   function deepClone(obj) {
@@ -42,3 +42,20 @@
     }
   ````
 - 法三：JQ的extend方法
+  ````
+  let newObj = $.extend(true,{},partcontent)
+  ````
+  2.怎么实现浅拷贝
+  ````
+  function shallowCopy (obj) {
+      let objClone = Array.isArray(obj) ? [] : {}
+      if (obj && typeof obj === 'object') {
+          for (let key in obj) {
+              if (obj.hasOwnProperty(key)) {
+                  objClone[key] = obj[key]
+              }
+          }
+      }
+      return objClone
+  }
+  ````
