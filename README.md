@@ -16,7 +16,8 @@
 14. [4类 JavaScript 内存泄漏及如何避免](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/memory_leaks.md)
 15. [JavaScript定时器分析](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/setTimeout.md)
 16. [浅谈Javascript闭包和闭包的几种写法及用途](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/closure.md)
-17. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
+17. [深拷贝浅拷贝的区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/deepCopy_shallowCody.md)
+18. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
 #### CSS
 1. [移动端适配注意事项](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/flexble.md)
 #### HTML
