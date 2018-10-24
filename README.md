@@ -19,6 +19,7 @@
 17. [深拷贝浅拷贝的区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/deepCopy_shallowCody.md)
 18. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
 19. [冒泡排序](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/bubble_sort.md)
+20. [原生ajax](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/ajax.md)
 #### CSS
 1. [移动端适配注意事项](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/flexble.md)
 #### HTML
@@ -47,7 +48,7 @@
 7. [将任意网站打包成本地exe程序](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/exe.md)
 8. [electron简单应用1](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/electron.md)
 #### 常用的封装
-1. [简单封装的ajax](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/ajax.md)
+1. [简单封装的ajax](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/ajax_ajax.md)
 2. [简单封装的cookie](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/session.md)
 3. [封装的storage](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/storage.md)
 4. [封装的formatDate](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/formatDate.md)
