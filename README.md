@@ -18,6 +18,7 @@
 16. [浅谈Javascript闭包和闭包的几种写法及用途](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/closure.md)
 17. [深拷贝浅拷贝的区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/deepCopy_shallowCody.md)
 18. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
+19. [冒泡排序](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/bubble_sort.md)
 #### CSS
 1. [移动端适配注意事项](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/flexble.md)
 #### HTML
