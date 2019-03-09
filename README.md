@@ -20,6 +20,7 @@
 18. [Typescript](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/typescript.md)
 19. [冒泡排序](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/bubble_sort.md)
 20. [原生ajax](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/ajax.md)
+21. [纯函数](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/pure_function.md)
 #### CSS
 1. [移动端适配注意事项](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/flexble.md)
 #### HTML
