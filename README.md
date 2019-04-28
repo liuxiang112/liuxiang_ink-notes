@@ -37,6 +37,8 @@
 #### NODE
 1. [koa](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/koa.md)
 2. [浅解vue数据驱动原理](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/vue.md)
+#### react
+1. [React创建组件的三种方式及其区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/react_create.md)
 #### ES6
 1. [promise简说](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/promise.md)
 2. [export和export default区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/export.md)
