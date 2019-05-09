@@ -12,6 +12,9 @@
 ````
 git checkout -- a.txt // a是文件名字
 ````
+当修改了多个文件时，可以用git checkout .一键回退
+当新增了一个a.txt文件，用 rm a.txt可删除
+
 **情况2**：修改了文件，<font color="red">并提交到暂存区（即编辑之后，git add但没有 git commit -m ....）</font>
 ````
 $ git reset HEAD    // 回退到当前版本
