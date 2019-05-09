@@ -58,11 +58,12 @@
 4. [封装的formatDate](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/formatDate.md)
 #### 其他
 1. [git常用命令速查表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/git.md)
-2. [前端网站列表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/web.md)
-3. [软件开发环境、生产环境、测试环境的基本理解和区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/development_environment.md)
-4. [语法糖是啥？](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/syntactic_sugar.md)
+2. [git常用命令之git status](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/git_status.md)
+3. [前端网站列表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/web.md)
+4. [软件开发环境、生产环境、测试环境的基本理解和区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/development_environment.md)
+5. [语法糖是啥？](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/syntactic_sugar.md)
 #### 杂说
 1. [eg：一个吃货的减肥之路]()
 2. [eg：'土肥圆'与'潮瘦美'的差别待遇]()
 3. [eg：沉迷阿堵物的我]()
-4. [eg：什么是成功？？？懂得在不成功的人生随遇而安，心安理得地混过漫长的岁月而不怨天尤人]()
+
