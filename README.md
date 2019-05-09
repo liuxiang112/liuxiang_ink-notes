@@ -59,9 +59,10 @@
 #### 其他
 1. [git常用命令速查表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/git.md)
 2. [git常用命令之git status](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/git_status.md)
-3. [前端网站列表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/web.md)
-4. [软件开发环境、生产环境、测试环境的基本理解和区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/development_environment.md)
-5. [语法糖是啥？](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/syntactic_sugar.md)
+3. [git 之 恢复修改的文件](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/git_recover.md)
+4. [前端网站列表](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/web.md)
+5. [软件开发环境、生产环境、测试环境的基本理解和区别](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/development_environment.md)
+6. [语法糖是啥？](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/syntactic_sugar.md)
 #### 杂说
 1. [eg：一个吃货的减肥之路]()
 2. [eg：'土肥圆'与'潮瘦美'的差别待遇]()
