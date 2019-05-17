@@ -13,21 +13,52 @@
 //demo1.js
 export const str = 'hello world'
 export function f(a){ return a+1}
+
+或者
+
+const str1 = 'hello'
+function test1() {}
+export { str1, test1 }
+
+或者
+
+const str2 = 'hello2'
+function test2() {}
+export str2
+export test2
 ````
 对应的导入方式：
 ````
 //demo2.js
 import { str, f } from 'demo1' //也可以分开写两次，导入的时候带花括号
+
+或者
+
+import { str } from 'demo1'
+import { f } from 'demo1'
+
+或者
+
+import * from 'demo1'
 ````
-2. export default
+1. export default
 ````
 //demo1.js
 export default const str = 'hello world'
+
+或者
+
+const str1 = 'hello'
+export default str1
 ````
 对应的导入方式：
 ````
 //demo2.js
 import str from 'demo1' //导入的时候没有花括号
+
+或者
+
+import * from 'demo1'
 ````
 - E.**使用export default命令，为模块指定默认输出，这样就不需要知道所要加载模块的变量名**
   
