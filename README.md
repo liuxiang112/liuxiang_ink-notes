@@ -1,4 +1,6 @@
 ## liuxiang.ink notes
+#### css
+1. [常用的数组方法](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/line_animate.md)
 #### JS基础
 1. [常用的数组方法](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/Array.md)
 2. [变量详解](https://github.com/liuxiang112/liuxiang_ink-notes/blob/master/doc/variable.md)
